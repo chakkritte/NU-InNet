@@ -8,7 +8,7 @@ Coming soon
 
 ## License and Citation
 
-NU-InNet is released under the [BSD 2-Clause license](https://github.com/BVLC/caffe/blob/master/LICENSE).
+NU-InNet and TH-FOOD50 for non-commercial **research/educational** use.
 
 Please cite NU-InNet and TH-FOOD50 in your publications if it helps your research:
 
