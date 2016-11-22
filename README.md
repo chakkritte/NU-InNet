@@ -8,9 +8,13 @@ Coming soon
 
 ## License and Citation
 
-NU-InNet and TH-FOOD50 for non-commercial **research/educational** use.
+NU-InNet and TH-FOOD50 for **non-commercial research/educational** use.
 
 Please cite NU-InNet and TH-FOOD50 in your publications if it helps your research:
+
+( Thai ) NU-InNet และ TH-FOOD50 อนุญาตให้ใช้เฉพาะเพื่อการ**ศึกษาและวิจัยเท่านั้น ห้ามนำไปใช้เชิงการค้าทุกรูปแบบ**
+
+หากคุณนำ NU-InNet และ TH-FOOD50 ไปใช้ในงานวิจัย กรุณาอ้างอิง 
 
     @INPROCEEDINGS{Kanp1611:NU,
       AUTHOR="Chakkrit Termritthikun and Paisarn Muneesawang and Surachet Kanprachar",
