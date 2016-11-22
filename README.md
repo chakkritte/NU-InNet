@@ -14,7 +14,7 @@ Please cite NU-InNet and TH-FOOD50 in your publications if it helps your researc
 
 ( Thai ) NU-InNet และ TH-FOOD50 อนุญาตให้ใช้เฉพาะเพื่อการ**ศึกษาและวิจัยเท่านั้น ห้ามนำไปใช้เชิงการค้าทุกรูปแบบ**
 
-หากคุณนำ NU-InNet และ TH-FOOD50 ไปใช้ในงานวิจัย กรุณาอ้างอิง 
+หากคุณนำ NU-InNet หรือ TH-FOOD50 ไปใช้ในงานวิจัย กรุณาอ้างอิง 
 
     @INPROCEEDINGS{Kanp1611:NU,
       AUTHOR="Chakkrit Termritthikun and Paisarn Muneesawang and Surachet Kanprachar",
