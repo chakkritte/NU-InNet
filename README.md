@@ -5,6 +5,18 @@ Coming soon
 # TH-FOOD50
 Coming soon
 
+# Result NU-InNet with TH-FOOD50
+
+#### Single-crop (224x224) average of 10-fold-cross-validation
+
+| Network       | Top-1 Accuracy | Top-5 Accuracy | Average Forward-Backward (ms/images) | Parameters (x10^6) |
+| --------      | --------       | --------       | --------                 | --------   |
+| AlexNet       | 58.1           | 86.4           | 13.90                     | 58.48       |
+| SqueezeNet    | 58.2           | 87.4           | 24.53                     | 0.75       |
+| GoogLeNet     | 68.4           | 91.7           | 40.13                     | 10.45       |
+| **NU-InNet 1.0**  | 69.8           | 92.3           | 18.16                     | 0.88       |
+| **NU-InNet 1.1**  | 68.7           | 92.3           | 36.52                     | 0.89       |
+
 
 ## License and Citation
 
