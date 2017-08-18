@@ -2,6 +2,9 @@
 
 This implements training of NU-InNet (Naresuan University Inception Network) from [NU-InNet: Thai Food Image Recognition Using Convolutional Neural Networks on Smartphone](http://journal.utem.edu.my/index.php/jtec/article/download/2436/1521) by [Chakkrit Termritthikun](https://chakkritte.github.io/cv/), et. al.
 
+![Bitcoin Address](https://raw.githubusercontent.com/chakkritte/NU-InNet/master/images/NU-InNet.png)
+
+
 # TH-FOOD50
 Coming soon
 
@@ -40,6 +43,6 @@ Please cite NU-InNet and TH-FOOD50 in your publications if it helps your researc
 
 ## Donate
 
-![Build Status](https://raw.githubusercontent.com/chakkritte/NU-InNet/master/images/pic.png)
+![Bitcoin Address](https://raw.githubusercontent.com/chakkritte/NU-InNet/master/images/pic.png)
 
  (Bitcoin Address) : 3DermWyouJQ5MwoNvEtv2SgnvFRMTDBudv
