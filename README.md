@@ -28,12 +28,14 @@ Please cite NU-InNet and TH-FOOD50 in your publications if it helps your researc
 
 หากคุณนำ NU-InNet หรือ TH-FOOD50 ไปใช้ในงานวิจัย กรุณาอ้างอิง 
 
-    @INPROCEEDINGS{Kanp1611:NU,
-      AUTHOR="Chakkrit Termritthikun and Paisarn Muneesawang and Surachet Kanprachar",
-      TITLE="{NU-InNet:} Thai Food Image Recognition Using Convolutional Neural Networks on Smartphone",
-      BOOKTITLE="2016 Computer Sciences and Information Technology International Conference (COMSIT) (COMSIT'2016)",
-      ADDRESS="Krabi, Thailand",
-      YEAR=2016,
+    @article{termritthikun2017nu,
+      title={NU-InNet: Thai Food Image Recognition Using Convolutional Neural Networks on Smartphone},
+      author={Termritthikun, Chakkrit and Muneesawang, Paisarn and Kanprachar, Surachet},
+      journal={Journal of Telecommunication, Electronic and Computer Engineering (JTEC)},
+      volume={9},
+      number={2-6},
+      pages={63--67},
+      year={2017}
     }
 
 ## Donate
