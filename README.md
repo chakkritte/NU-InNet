@@ -1,6 +1,5 @@
 # NU-InNet
-Coming soon
-
+This implements training of NU-InNet (Naresuan University Inception Network) from NU-InNet: Thai Food Image Recognition Using Convolutional Neural Networks on Smartphone by Chakkrit Termritthikun, et. al.
 
 # TH-FOOD50
 Coming soon
