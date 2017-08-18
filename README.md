@@ -5,14 +5,18 @@ This implements training of NU-InNet (Naresuan University Inception Network) fro
 
 
 ### Module architecture of Inception (left), NU-Inception-1.0 (middle), and NU-Inception-1.1 (right)
-![Bitcoin Address](https://raw.githubusercontent.com/chakkritte/NU-InNet/master/images/NU.png)
+![imges](https://raw.githubusercontent.com/chakkritte/NU-InNet/master/images/NU.png)
 
 ### GoogLeNet, NU-InNet 1.0, and NU-InNet 1.1 architectures
-![Bitcoin Address](https://raw.githubusercontent.com/chakkritte/NU-InNet/master/images/NU1.png)
+![imges](https://raw.githubusercontent.com/chakkritte/NU-InNet/master/images/NU1.png)
 
 
 # TH-FOOD50
-Coming soon
+
+### Examples of Thai food images in the THFOOD-50 dataset
+![imges](https://raw.githubusercontent.com/chakkritte/NU-InNet/master/images/THFOOD.png)
+
+Download TH-FOOD50 : 
 
 # Result NU-InNet with TH-FOOD50
 
