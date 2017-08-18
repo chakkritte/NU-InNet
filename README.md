@@ -8,7 +8,7 @@ This implements training of NU-InNet (Naresuan University Inception Network) fro
 ![Bitcoin Address](https://raw.githubusercontent.com/chakkritte/NU-InNet/master/images/NU.png)
 
 ### GoogLeNet, NU-InNet 1.0, and NU-InNet 1.1 architectures
-![Bitcoin Address](https://raw.githubusercontent.com/chakkritte/NU-InNet/master/images/NU-InNet.png)
+![Bitcoin Address](https://raw.githubusercontent.com/chakkritte/NU-InNet/master/images/NU1.png)
 
 
 # TH-FOOD50
