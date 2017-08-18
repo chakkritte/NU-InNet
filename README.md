@@ -13,10 +13,12 @@ This implements training of NU-InNet (Naresuan University Inception Network) fro
 
 # TH-FOOD50
 
+### Download TH-FOOD50 : coming soon
+
 ### Examples of Thai food images in the THFOOD-50 dataset
 ![imges](https://raw.githubusercontent.com/chakkritte/NU-InNet/master/images/THFOOD.png)
 
-Download TH-FOOD50 : 
+
 
 # Result NU-InNet with TH-FOOD50
 
