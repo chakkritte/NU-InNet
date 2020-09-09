@@ -13,7 +13,7 @@ This implements training of NU-InNet (Naresuan University Inception Network) fro
 
 # TH-FOOD50
 
-### Download TH-FOOD50 : coming soon
+### Download TH-FOOD50 : https://github.com/chakkritte/THFOOD-50
 
 ### Examples of Thai food images in the THFOOD-50 dataset
 ![imges](https://raw.githubusercontent.com/chakkritte/NU-InNet/master/images/THFOOD.png)
@@ -52,9 +52,3 @@ Please cite NU-InNet and TH-FOOD50 in your publications if it helps your researc
       pages={63--67},
       year={2017}
     }
-
-## Donate
-
-![Bitcoin Address](https://raw.githubusercontent.com/chakkritte/NU-InNet/master/images/pic.png)
-
- (Bitcoin Address) : 3DermWyouJQ5MwoNvEtv2SgnvFRMTDBudv
